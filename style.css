@@ -7,6 +7,7 @@
 body{
     background-color: #f6f8f9;
     font-family: 'Roboto', sans-serif;
+
 }
 
 header{
@@ -21,4 +22,32 @@ header{
 
 .app-logo{
     vertical-align: middle;
+}
+
+.conteiner{
+    max-width: 785px;
+    margin: auto;
+    color: #ffffff;
+}
+
+.add-task{
+    background-color: #14aaf5;
+    color: #ffffff;
+    border-radius: 5px;
+    border-color: #14aaf5;
+    width: 68px;
+    height: 25px;
+}
+
+.add-section{
+    border-radius: 5px;
+    border-color: #c4cbd0;
+    color: #c4cbd0;
+    width: 84px;
+    height: 25px;
+}
+
+hr{
+    color: #c4cbd0;
+    margin-top: 10px;
 }
