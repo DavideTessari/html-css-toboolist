@@ -28,6 +28,8 @@ header{
     max-width: 785px;
     margin: auto;
     background-color: #ffffff;
+    padding: 15px 50px;
+    margin-top: 40px;
 }
 
 .add-task{
@@ -81,7 +83,7 @@ hr{
     border-color: #09a9ed;
     width: 55px;
     height: 20px;
-    font-size: 10px;
+    font-size: 12px;
 }
 
 .viola{
@@ -91,7 +93,7 @@ hr{
     border-color: #ab5de6;
     width: 60px;
     height: 20px;
-    font-size: 10px;
+    font-size: 12px;
 }
 
 .verde-acqua{
@@ -101,7 +103,7 @@ hr{
     border-color: #2cc6ab;
     width: 65px;
     height: 20px;
-    font-size: 10px;
+    font-size: 12px;
 }
 
 .arancione{
@@ -111,7 +113,7 @@ hr{
     border-color: #ff9b00;
     width: 50px;
     height: 20px;
-    font-size: 10px;
+    font-size: 12px;
 }
 
 .rosa{
@@ -121,7 +123,7 @@ hr{
     border-color: #ec4a9d;
     width: 55px;
     height: 20px;
-    font-size: 10px;
+    font-size: 12px;
 }
 
 .verde{
@@ -131,7 +133,7 @@ hr{
     border-color: #a3d116;
     width: 45px;
     height: 20px;
-    font-size: 10px;
+    font-size: 12px;
 }
 
 
