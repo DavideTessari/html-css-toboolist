@@ -27,7 +27,7 @@ header{
 .conteiner{
     max-width: 785px;
     margin: auto;
-    color: #ffffff;
+    background-color: #ffffff;
 }
 
 .add-task{
@@ -51,3 +51,91 @@ hr{
     color: #c4cbd0;
     margin-top: 10px;
 }
+
+.circle{
+    display: inline-block;
+    border: 1px solid green;
+    height: 20px;
+    width: 20px;
+    border-radius: 100%;
+    text-align: center;
+    line-height: 20px;
+    color: green;
+}
+
+.circle-x{
+    display: inline-block;
+    border: 1px solid red;
+    height: 20px;
+    width: 20px;
+    border-radius: 100%;
+    text-align: center;
+    line-height: 20px;
+    color: red; 
+}
+
+.azzurro{
+    background-color: #09a9ed;
+    color: #ffffff;
+    border-radius: 10px;
+    border-color: #09a9ed;
+    width: 55px;
+    height: 20px;
+    font-size: 10px;
+}
+
+.viola{
+    background-color: #ab5de6;
+    color: #ffffff;
+    border-radius: 10px;
+    border-color: #ab5de6;
+    width: 60px;
+    height: 20px;
+    font-size: 10px;
+}
+
+.verde-acqua{
+    background-color: #2cc6ab;
+    color: #ffffff;
+    border-radius: 10px;
+    border-color: #2cc6ab;
+    width: 65px;
+    height: 20px;
+    font-size: 10px;
+}
+
+.arancione{
+    background-color: #ff9b00;
+    color: #ffffff;
+    border-radius: 10px;
+    border-color: #ff9b00;
+    width: 50px;
+    height: 20px;
+    font-size: 10px;
+}
+
+.rosa{
+    background-color: #ec4a9d;
+    color: #ffffff;
+    border-radius: 10px;
+    border-color: #ec4a9d;
+    width: 55px;
+    height: 20px;
+    font-size: 10px;
+}
+
+.verde{
+    background-color: #a3d116;
+    color: #ffffff;
+    border-radius: 10px;
+    border-color: #a3d116;
+    width: 45px;
+    height: 20px;
+    font-size: 10px;
+}
+
+
+
+
+
+
