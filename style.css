@@ -26,32 +26,27 @@ header{
 
 .conteiner{
     max-width: 785px;
-    margin: auto;
+    margin: 40px auto;
     background-color: #ffffff;
     padding: 15px 50px;
-    margin-top: 40px;
+    box-shadow: rgb(148,157,167) 0px 8px 24px;
 }
 
 .add-task{
     background-color: #14aaf5;
     color: #ffffff;
-    border-radius: 5px;
+    border-radius: 6px;
     border-color: #14aaf5;
-    width: 68px;
-    height: 25px;
+    padding: 6px 10px;
+    cursor: pointer;
 }
 
 .add-section{
-    border-radius: 5px;
+    border-radius: 6px;
     border-color: #c4cbd0;
     color: #c4cbd0;
-    width: 84px;
-    height: 25px;
-}
-
-hr{
-    color: #c4cbd0;
-    margin-top: 10px;
+    padding: 6px 10px;
+    cursor: pointer;
 }
 
 .circle{
